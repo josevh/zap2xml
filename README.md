@@ -1,5 +1,5 @@
 # zap2xml
-Docker container for zap2xml. Forked from shuaiscott/zap2xml.
+Docker container for zap2xml. Forked from [shuaiscott/zap2xml](https://github.com/shuaiscott/zap2xml).
 
 This is `zap2xml` with environment variables driving the configuration. By default it runs every 12 hours to update your EPG data from zap2it. This container will take a second account for zap2it and will merge the received xml files into one using tv_merge.
 
